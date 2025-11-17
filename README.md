@@ -112,3 +112,4 @@ Eprint = {arXiv:2305.14018},
 - [detr3d](https://github.com/WangYueFt/detr3d) 
 - [mmdet3d](https://github.com/open-mmlab/mmdetection3d)
 - [SOLOFusion](https://github.com/Divadi/SOLOFusion/tree/main/configs/solofusion)
+ysy
